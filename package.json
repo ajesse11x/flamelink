@@ -45,7 +45,7 @@
   "license": "ISC",
   "homepage": "https://flamelink.github.io/flamelink/",
   "dependencies": {
-    "browser-image-resizer": "^1.1.4",
+    "browser-image-resizer": "^2.0.1",
     "compose-then": "^1.0.1",
     "firebase": "^4.12.1",
     "lodash": "^4.17.5",
